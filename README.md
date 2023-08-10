@@ -1,4 +1,4 @@
--> 👋 Hi, I’m @Cod2rDude 
+# **Hello, I'm Coder Dude!**
 
 -> 👨‍💻 I’m interested in making games, doing fantastic websites and computer hardware 
 
