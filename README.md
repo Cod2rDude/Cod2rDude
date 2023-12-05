@@ -2,6 +2,7 @@
 
 ### A Programmer which loves computers so much!
 
-I'm currently working on a roblox game but if i find some time ill publish some modules/libs here.
-My dream is to become a computer engineer and make my own chip!
+My current projects:
+  - A game called "Panic List" on Roblox platform. 🎮
+  - Making my own 2d game engine using c++ from scratch. 👨‍💻
 
